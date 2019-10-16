@@ -1,7 +1,7 @@
 ![](screenshot.png)
 
-## They-Say-It's-The-Best-Job
-A quote generator that randomly displays sayings about the challenges of parenting.
+## You Know You're In Wyoming When
+A quote generator that randomly displays sayings about the wonders of Wyoming.
 
 ### Build status
 
