@@ -1,24 +1,16 @@
-# README
+![](screenshot.png)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## They-Say-It's-The-Best-Job
+A quote generator that randomly displays sayings about the challenges of parenting.
 
-Things you may want to cover:
+### Build status
 
-* Ruby version
+[![Build Status](https://travis-ci.org/msarit/splurtyarit.svg?branch=master)](https://travis-ci.org/msarit/splurtyarit)
 
-* System dependencies
+### Features
+* Built on Rails
+* Mobile-responsive
+* Crowd-sourced content
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### Credits
+* [The Firehose Project](https://thefirehoseproject.com)
